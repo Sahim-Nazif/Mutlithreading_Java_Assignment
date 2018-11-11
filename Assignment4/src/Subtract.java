@@ -10,7 +10,7 @@ public class Subtract implements Runnable {
 
 	@Override
 	public void run() {
-		System.out.println("The result of the addition operation on " + firstNum + "and " + secondNum + " is"
+		System.out.println("The result of the subtraction operation on " + firstNum + "and " + secondNum + " is"
 				+ (firstNum - secondNum));
 
 	}
