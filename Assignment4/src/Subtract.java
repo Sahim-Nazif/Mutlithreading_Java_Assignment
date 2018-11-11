@@ -1,5 +1,6 @@
 
-public class Subtract implements Runnable {
+public class Subtract implements Runnable
+{
 	private int firstNum;
 	private int secondNum;
 
