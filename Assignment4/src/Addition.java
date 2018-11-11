@@ -12,7 +12,7 @@ public class Addition implements Runnable {
 	public void run() {
 		
 		System.out.println("The result of the addition operation on " +
-		firstNum +"and " +secondNum +" is" + (firstNum +secondNum));
+		firstNum +"and " +secondNum +" is  " + (firstNum +secondNum));
 
 	}
 }

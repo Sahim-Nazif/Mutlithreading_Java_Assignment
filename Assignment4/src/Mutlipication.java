@@ -10,8 +10,8 @@ public class Mutlipication implements Runnable {
 
 	@Override
 	public void run() {
-		System.out.println("The result of the multipication operation on " + firstNum + "and " + secondNum + " is"
-				+ (firstNum * secondNum));
+		System.out.println("The result of the multipication operation on " + firstNum + "and " + secondNum +
+				" is " + (firstNum * secondNum));
 
 	}
 

@@ -11,8 +11,8 @@ public class Subtract implements Runnable
 
 	@Override
 	public void run() {
-		System.out.println("The result of the subtraction operation on " + firstNum + "and " + secondNum + " is"
-				+ (firstNum - secondNum));
+		System.out.println("The result of the subtraction operation on " + firstNum + "and " + secondNum +
+				" is  " + (firstNum - secondNum));
 
 	}
 
